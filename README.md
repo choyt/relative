@@ -1,2 +1,1 @@
-relative
-========
+Relative date formatting for Go.
